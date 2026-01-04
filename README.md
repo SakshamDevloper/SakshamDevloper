@@ -11,9 +11,6 @@
   <img src="https://komarev.com/ghpvc/?username=SakshamSethi&label=SYSTEM%20SCANS&color=7F00FF&style=flat-square" />
 </p>
 
----
-
-```txt
 ENGINEER.PROFILE
 ────────────────────────────────────────
 NAME        : Saksham Sethi
