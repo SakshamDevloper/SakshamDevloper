@@ -1,115 +1,45 @@
-<!-- ===================== HEADER ===================== -->
-<h1 align="center">Hi 👋, I'm Saksham Sethi</h1>
-<h3 align="center">🚀 Software Developer | AI & Backend Enthusiast | Problem Solver</h3>
+<!-- ===================== TOP 1% NEON HEADER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=Saksham%20Sethi&fontSize=44&fontAlignY=35&animation=fadeIn&color=0:00F0FF,100:7F00FF&desc=Top%201%25%20AI%20%26%20Backend%20Engineer&descAlignY=55" />
+</p>
+
+<!-- ===================== NEON TYPING ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=2000&color=00F0FF&center=true&vCenter=true&width=800&lines=Top+1%25+Developer+Mindset;AI+%26+Backend+Engineer;System+Design+%7C+Problem+Solving;Building+Production-Ready+Software;Neon+Code.+Real+Impact." />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SakshamSethi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SakshamSethi&label=PROFILE%20POWER&color=7F00FF&style=flat-square" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 ABOUT ME (RECRUITER VIEW)
 
-- 🎓 Passionate about **Software Engineering & AI**
-- 💻 I build **real-world projects** using Python, JavaScript & Backend Tech
-- 🔍 Interested in **AI, Web Apps, System Design**
-- 🚀 Always learning, always building
-- 🎯 Goal: Become a **Top Software Engineer**
+I design and engineer scalable backend systems and AI-driven applications.
+Strong fundamentals, system-level thinking, and production mindset.
+Focused on real-world impact, not just writing code.
 
----
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css,flask,mongodb,mysql,git,github,vscode,linux&theme=dark&perline=7" /> </p>
 
-## 🛠️ Tech Stack
+HELLO APP — BACKEND SYSTEM
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=95&text=HELLO%20APP%20%7C%20UBER-LIKE%20BACKEND&fontSize=22&color=0:7F00FF,100:00F0FF" /> </p>
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+Employee & EV service support platform
 
-### 🌐 Web & Backend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+Flask • REST APIs • Database Design
 
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+AI ALGORITHMS HUB
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&height=95&text=AI%20SEARCH%20%26%20OPTIMIZATION&fontSize=22&color=0:00F0FF,100:7F00FF" /> </p>
 
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+BFS, A*, AO*, Hill Climbing
 
----
+Heuristics • Optimization • AI Logic 
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|-------|-------------|------|
-| 🤖 AI Voice Assistant | Smart voice assistant with memory | Python |
-| 🚗 Hello App (Uber-like) | Employee support & EV help system | Flask, DB |
-| 🧠 Algorithms Repository | AI & search algorithms | Python |
-| 🌐 Web Applications | Interactive dashboards | Streamlit |
-
-👉 **Explore all repositories below ⬇️**
-
----
-
-## 📊 GitHub Stats (🔥 INSANE LOOK)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshamSethi&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=SakshamSethi&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamSethi&layout=compact&theme=tokyonight" width="50%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SakshamSethi&theme=darkhub&row=1&column=7" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sakshamsethi1">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:sakshamsethi353@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
----
-
-## ✨ Quote That Defines Me
-
-> **"First solve the problem, then write the code." – John Johnson**
-
----
-
-<h3 align="center">🔥 If you like my work, give a ⭐ and follow me 🚀</h3>
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SakshamSethi&show_icons=true&theme=radical&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=SakshamSethi&theme=radical&hide_border=true" /> </p> <p align="center"> <img width="52%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamSethi&layout=compact&theme=radical&hide_border=true" /> </p>
 
 
-<!--
-**SakshamDevloper/SakshamDevloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamSethi&bg_color=0d1117&color=00F0FF&line=7F00FF&point=00F0FF&hide_border=true" /> </p>
 
-Here are some ideas to get you started:
+<p align="center"> <a href="https://www.linkedin.com/in/sakshamsethi1"> <img src="https://img.shields.io/badge/LinkedIn-TOP%201%25-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" /> </a> <a href="mailto:sakshamsethi353@gmail.com"> <img src="https://img.shields.io/badge/Gmail-ENGINEER-7F00FF?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
