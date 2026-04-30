@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;GenAI+Builder;Backend+Developer;Building+Scalable+AI+Systems" />
 </p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=SakshamDevloper&label=Profile%20Views&color=blue&style=flat" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/followers/SakshamDevloper?label=Followers&style=social" />
 </p>---
 
 🧠 About Me
