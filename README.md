@@ -67,7 +67,7 @@ from LLM-powered assistants → deployed APIs → scalable pipelines.
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SakshamDevloper&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 </p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=SakshamDevloper&theme=tokyonight&hide_border=true" />
 </p>---
 
 🧠 Problem Solving
