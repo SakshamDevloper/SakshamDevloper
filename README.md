@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;GenAI+Builder;Backend+Developer;Building+Scalable+AI+Systems" />
 </p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SakshamDevloper&label=Profile%20Views&color=blue&style=flat" />
   <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=social" />
 </p>---
 
@@ -79,7 +79,7 @@ from LLM-powered assistants → deployed APIs → scalable pipelines.
 🐍 Contribution Graph (Animated)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SakshamDevloper/SakshamDevloper/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/SakshamDevloper/output/github-contribution-grid-snake.svg" />
 </p>---
 
 🌐 Connect
