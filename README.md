@@ -78,9 +78,30 @@ from LLM-powered assistants → deployed APIs → scalable pipelines.
 
 🐍 Contribution Graph (Animated)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SakshamDevloper/output/github-contribution-grid-snake.svg" />
-</p>---
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: SakshamDevloper
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 🌐 Connect
 
