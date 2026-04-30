@@ -73,7 +73,7 @@ from LLM-powered assistants → deployed APIs → scalable pipelines.
 🧠 Problem Solving
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/SakshamDevloper?theme=dark&font=baloo&ext=heatmap" />
 </p>---
 
 🐍 Contribution Graph (Animated)
