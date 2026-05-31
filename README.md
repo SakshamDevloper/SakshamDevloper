@@ -44,38 +44,20 @@ Passionate **AI/ML Engineer** with hands-on development experience specializing 
 
 ---
 
-## 🔥 Production Projects
-
-### 🧠 [RAG-Powered AI Assistant](https://github.com/SakshamDevloper)
-*   Built an end-to-end Retrieval-Augmented Generation pipeline using LangChain, FAISS vector store, and OpenAI API featuring conversation history management via Buffer Memory[cite: 1].
-*   Deployed the pipeline as a live web application on Hugging Face Spaces using Streamlit for optimized, real-time response streaming[cite: 1].
-
-### 🌿 [Plant Disease Detection (Web Application)](https://github.com/SakshamDevloper)
-*   Engineered a CNN-based computer vision architecture utilizing transfer learning (MobileNet V2) and data augmentation to classify 10+ distinct foliage conditions[cite: 1].
-*   Achieved a verified test accuracy of **82%+** before deploying the complete framework onto Hugging Face Spaces[cite: 1].
-
-### 📈 [Sales Forecasting System](https://github.com/SakshamDevloper)
-*   Developed an end-to-end time-series forecasting pipeline using ARIMA models paired with custom feature engineering strategies like rolling averages and lag features[cite: 1].
-*   Delivered predictions yielding an optimized **12% Mean Absolute Percentage Error (MAPE)** on structural retail transaction datasets[cite: 1].
-
----
-
 ## 📊 Problem Solving & GitHub Analytics
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/SakshamDevloper?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SakshamDevloper&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamDevloper&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SakshamDevloper&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamDevloper&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<br/>
-
-<div align="center">
-  <img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamDevloper&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SakshamDevloper&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -90,9 +72,9 @@ Passionate **AI/ML Engineer** with hands-on development experience specializing 
 
 ## 🐍 Contribution Graph
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SakshamDevloper/SakshamDevloper/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SakshamDevloper/SakshamDevloper/main/github-contribution-grid-snake.svg" onerror="this.src='https://raw.githubusercontent.com/SakshamDevloper/SakshamDevloper/master/github-contribution-grid-snake.svg'" alt="Snake Contribution Graph" />
+</p>
 
 <br/>
 
