@@ -47,17 +47,19 @@
 ## 📊 Problem Solving & GitHub Analytics
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SakshamDevloper?theme=dark&font=baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/SakshamDevloper?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshamDevloper&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamDevloper&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SakshamDevloper&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SakshamDevloper&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamDevloper&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamDevloper&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Streak Stats"/>
 </p>
 
 ---
