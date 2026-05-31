@@ -20,13 +20,13 @@
 
 ## 👨‍💻 About Me
 
-Passionate **AI/ML Engineer** with hands-on development experience specializing in Machine Learning, Generative AI, Natural Language Processing, Computer Vision, and Software Engineering. I focus on transforming complex business requirements into scalable, production-ready architectures.
+[cite_start]Passionate **AI/ML Engineer** with hands-on development experience specializing in Machine Learning, Generative AI, Natural Language Processing, Computer Vision, and Software Engineering[cite: 3]. [cite_start]I focus on transforming complex business requirements into scalable, production-ready architectures[cite: 3, 5].
 
-* 🔭 **Current Focus:** Building a `LangGraph` multi-agent system & executing an LLM fine-tuning project (LoRA on Mistral-7B).
-* 💼 **Experience:** Former Software Development Intern at **Cognifyz Technologies**.
-* 🎓 **Education:** B.E. in Information Technology at **Parul Institute of Engineering and Technology**.
-* 🎯 **Problem Solving:** Solved **300+ DSA problems** on LeetCode across Arrays, Trees, Graphs, and DP.
-* 📍 **Location:** Jammu, India (Open to Relocation: Bengaluru / Hyderabad / Remote).
+* [cite_start]🔭 **Current Focus:** Building a `LangGraph` multi-agent system & executing an LLM fine-tuning project (LoRA on Mistral-7B)[cite: 42].
+* [cite_start]💼 **Experience:** Former Software Development Intern at **Cognifyz Technologies**[cite: 19, 20].
+* [cite_start]🎓 **Education:** B.E. in Information Technology at **Parul Institute of Engineering and Technology**[cite: 7].
+* [cite_start]🎯 **Problem Solving:** Solved **300+ DSA problems** on LeetCode across Arrays, Trees, Graphs, and DP[cite: 41].
+* [cite_start]📍 **Location:** Jammu, India (Open to Relocation: Bengaluru / Hyderabad / Remote)[cite: 1].
 
 ---
 
@@ -37,10 +37,10 @@ Passionate **AI/ML Engineer** with hands-on development experience specializing 
 </p>
 
 ### 🛠️ Core Competencies & Toolkits
-* **GenAI & LLMs:** LangChain, LangGraph, RAG Pipelines, Prompt Engineering, Hugging Face Transformers, OpenAI API, Fine-Tuning (LoRA/QLoRA).
-* **AI/ML & Vision:** Scikit-learn, PyTorch, TensorFlow (basics), NLP (spaCy, NLTK), OpenCV, ARIMA, Feature Engineering, Model Evaluation.
-* **Vector Infrastructure:** Chroma (Vector DB), FAISS.
-* **Backend & MLOps:** Streamlit, FastAPI, Node.js, Spring Boot, Docker, REST APIs, Linux, MVC Architecture.
+* [cite_start]**GenAI & LLMs:** LangChain, LangGraph, RAG Pipelines, Prompt Engineering, Hugging Face Transformers, OpenAI API, Fine-Tuning (LoRA/QLoRA)[cite: 12].
+* [cite_start]**AI/ML & Vision:** Scikit-learn, PyTorch, TensorFlow (basics), NLP (spaCy, NLTK), OpenCV, ARIMA, Feature Engineering, Model Evaluation[cite: 13].
+* [cite_start]**Vector Infrastructure:** Chroma (Vector DB), FAISS[cite: 16].
+* [cite_start]**Backend & MLOps:** Streamlit, FastAPI, Node.js, Spring Boot, Docker, REST APIs, Linux, MVC Architecture[cite: 14, 15].
 
 ---
 
@@ -50,29 +50,24 @@ Passionate **AI/ML Engineer** with hands-on development experience specializing 
   <img src="https://leetcard.jacoblin.cool/SakshamDevloper?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SakshamDevloper&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamDevloper&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SakshamDevloper&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamDevloper&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=SakshamDevloper&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=SakshamDevloper&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </p>
 
 ---
 
 ## 🎖️ Certifications
-* 🥇 **AWS** ML Engineer Associate
-* 🥈 **Data Engineering** Foundations Certification
-* 🥉 **Graphs Camp** Algo University Certification (2025)
-* 🏅 **AI for Techies** Certification (2025)
-* 🎯 **Computer Networks** NPTEL & CIIIT Tata Technologies (2024)
+* [cite_start]🥇 **AWS** ML Engineer Associate [cite: 43]
+* [cite_start]🥈 **Data Engineering** Foundations Certification [cite: 43]
+* [cite_start]🥉 **Graphs Camp** Algo University Certification (2025) [cite: 44]
+* [cite_start]🏅 **AI for Techies** Certification (2025) [cite: 44]
+* [cite_start]🎯 **Computer Networks** NPTEL & CIIIT Tata Technologies (2024) [cite: 45]
 
 ---
 
