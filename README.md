@@ -20,13 +20,13 @@
 
 ## 👨‍💻 About Me
 
-Passionate **AI/ML Engineer** with hands-on development experience specializing in Machine Learning, Generative AI, Natural Language Processing, Computer Vision, and Software Engineering. I focus on transforming complex business requirements into scalable, production-ready architectures
+Passionate **AI/ML Engineer** with hands-on development experience specializing in Machine Learning, Generative AI, Natural Language Processing, Computer Vision, and Software Engineering. I focus on transforming complex business requirements into scalable, production-ready architectures.
 
-*   🔭 **Current Focus:** Building a `LangGraph` multi-agent system & executing an LLM fine-tuning project (LoRA on Mistral-7B).
-*   💼 **Experience:** Former Software Development Intern at **Cognifyz Technologies**.
-*   🎓 **Education:** B.E. in Information Technology at **Parul Institute of Engineering and Technology**.
-*   🎯 **Problem Solving:** Solved **300+ DSA problems** on LeetCode across Arrays, Trees, Graphs, and DP.
-*   📍 **Location:** Jammu, India (Open to Relocation: Bengaluru / Hyderabad / Remote).
+* 🔭 **Current Focus:** Building a `LangGraph` multi-agent system & executing an LLM fine-tuning project (LoRA on Mistral-7B).
+* 💼 **Experience:** Former Software Development Intern at **Cognifyz Technologies**.
+* 🎓 **Education:** B.E. in Information Technology at **Parul Institute of Engineering and Technology**.
+* 🎯 **Problem Solving:** Solved **300+ DSA problems** on LeetCode across Arrays, Trees, Graphs, and DP.
+* 📍 **Location:** Jammu, India (Open to Relocation: Bengaluru / Hyderabad / Remote).
 
 ---
 
@@ -37,10 +37,10 @@ Passionate **AI/ML Engineer** with hands-on development experience specializing 
 </p>
 
 ### 🛠️ Core Competencies & Toolkits
-*   **GenAI & LLMs:** LangChain, LangGraph, RAG Pipelines, Prompt Engineering, Hugging Face Transformers, OpenAI API, Fine-Tuning (LoRA/QLoRA).
-*   **AI/ML & Vision:** Scikit-learn, PyTorch, TensorFlow (basics), NLP (spaCy, NLTK), OpenCV, ARIMA, Feature Engineering, Model Evaluation.
-*   **Vector Infrastructure:** Chroma (Vector DB), FAISS.
-*   **Backend & MLOps:** Streamlit, FastAPI, Node.js, Spring Boot, Docker, REST APIs, Linux, MVC Architecture.
+* **GenAI & LLMs:** LangChain, LangGraph, RAG Pipelines, Prompt Engineering, Hugging Face Transformers, OpenAI API, Fine-Tuning (LoRA/QLoRA).
+* **AI/ML & Vision:** Scikit-learn, PyTorch, TensorFlow (basics), NLP (spaCy, NLTK), OpenCV, ARIMA, Feature Engineering, Model Evaluation.
+* **Vector Infrastructure:** Chroma (Vector DB), FAISS.
+* **Backend & MLOps:** Streamlit, FastAPI, Node.js, Spring Boot, Docker, REST APIs, Linux, MVC Architecture.
 
 ---
 
@@ -50,23 +50,29 @@ Passionate **AI/ML Engineer** with hands-on development experience specializing 
   <img src="https://leetcard.jacoblin.cool/SakshamDevloper?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SakshamDevloper&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamDevloper&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=SakshamDevloper&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamDevloper&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SakshamDevloper&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=SakshamDevloper&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </p>
 
 ---
 
 ## 🎖️ Certifications
-*   🥇 **AWS** ML Engineer Associate
-*   🥈 **Data Engineering** Foundations Certification
-*   🥉 **Graphs Camp** Algo University Certification (2025)
-*   🏅 **AI for Techies** Certification (2025)
-*   🎯 **Computer Networks** NPTEL & CIIIT Tata Technologies (2024)
+* 🥇 **AWS** ML Engineer Associate
+* 🥈 **Data Engineering** Foundations Certification
+* 🥉 **Graphs Camp** Algo University Certification (2025)
+* 🏅 **AI for Techies** Certification (2025)
+* 🎯 **Computer Networks** NPTEL & CIIIT Tata Technologies (2024)
 
 ---
 
@@ -86,16 +92,12 @@ Passionate **AI/ML Engineer** with hands-on development experience specializing 
 
 ## ⚙️ Live Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 _⚡ This section auto-updates using GitHub Actions_
 
 ---
 
 ## 🚀 Weekly Dev Metrics
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 _⏳ Auto-tracked coding stats via WakaTime_
 
 ---
