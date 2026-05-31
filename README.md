@@ -73,7 +73,7 @@ Passionate **AI/ML Engineer** with hands-on development experience specializing 
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SakshamDevloper/SakshamDevloper/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/SakshamDevloper/SakshamDevloper/main/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" />
 </p>
 
 <br/>
