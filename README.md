@@ -20,13 +20,13 @@
 
 ## 👨‍💻 About Me
 
-Passionate **AI/ML Engineer** with hands-on development experience specializing in Machine Learning, Generative AI, Natural Language Processing, Computer Vision, and Software Engineering[cite: 1]. I focus on transforming complex business requirements into scalable, production-ready architectures[cite: 1].
+Passionate **AI/ML Engineer** with hands-on development experience specializing in Machine Learning, Generative AI, Natural Language Processing, Computer Vision, and Software Engineering. I focus on transforming complex business requirements into scalable, production-ready architectures
 
-*   🔭 **Current Focus:** Building a `LangGraph` multi-agent system & executing an LLM fine-tuning project (LoRA on Mistral-7B)[cite: 1].
-*   💼 **Experience:** Former Software Development Intern at **Cognifyz Technologies**[cite: 1].
-*   🎓 **Education:** B.E. in Information Technology at **Parul Institute of Engineering and Technology**[cite: 1].
-*   🎯 **Problem Solving:** Solved **300+ DSA problems** on LeetCode across Arrays, Trees, Graphs, and DP[cite: 1].
-*   📍 **Location:** Jammu, India (Open to Relocation: Bengaluru / Hyderabad / Remote)[cite: 1].
+*   🔭 **Current Focus:** Building a `LangGraph` multi-agent system & executing an LLM fine-tuning project (LoRA on Mistral-7B).
+*   💼 **Experience:** Former Software Development Intern at **Cognifyz Technologies**.
+*   🎓 **Education:** B.E. in Information Technology at **Parul Institute of Engineering and Technology**.
+*   🎯 **Problem Solving:** Solved **300+ DSA problems** on LeetCode across Arrays, Trees, Graphs, and DP.
+*   📍 **Location:** Jammu, India (Open to Relocation: Bengaluru / Hyderabad / Remote).
 
 ---
 
@@ -37,10 +37,10 @@ Passionate **AI/ML Engineer** with hands-on development experience specializing 
 </p>
 
 ### 🛠️ Core Competencies & Toolkits
-*   **GenAI & LLMs:** LangChain, LangGraph, RAG Pipelines, Prompt Engineering, Hugging Face Transformers, OpenAI API, Fine-Tuning (LoRA/QLoRA)[cite: 1].
-*   **AI/ML & Vision:** Scikit-learn, PyTorch, TensorFlow (basics), NLP (spaCy, NLTK), OpenCV, ARIMA, Feature Engineering, Model Evaluation[cite: 1].
-*   **Vector Infrastructure:** Chroma (Vector DB), FAISS[cite: 1].
-*   **Backend & MLOps:** Streamlit, FastAPI, Node.js, Spring Boot, Docker, REST APIs, Linux, MVC Architecture[cite: 1].
+*   **GenAI & LLMs:** LangChain, LangGraph, RAG Pipelines, Prompt Engineering, Hugging Face Transformers, OpenAI API, Fine-Tuning (LoRA/QLoRA).
+*   **AI/ML & Vision:** Scikit-learn, PyTorch, TensorFlow (basics), NLP (spaCy, NLTK), OpenCV, ARIMA, Feature Engineering, Model Evaluation.
+*   **Vector Infrastructure:** Chroma (Vector DB), FAISS.
+*   **Backend & MLOps:** Streamlit, FastAPI, Node.js, Spring Boot, Docker, REST APIs, Linux, MVC Architecture.
 
 ---
 
@@ -62,11 +62,11 @@ Passionate **AI/ML Engineer** with hands-on development experience specializing 
 ---
 
 ## 🎖️ Certifications
-*   🥇 **AWS** ML Engineer Associate[cite: 1]
-*   🥈 **Data Engineering** Foundations Certification[cite: 1]
-*   🥉 **Graphs Camp** Algo University Certification (2025)[cite: 1]
-*   🏅 **AI for Techies** Certification (2025)[cite: 1]
-*   🎯 **Computer Networks** NPTEL & CIIIT Tata Technologies (2024)[cite: 1]
+*   🥇 **AWS** ML Engineer Associate
+*   🥈 **Data Engineering** Foundations Certification
+*   🥉 **Graphs Camp** Algo University Certification (2025)
+*   🏅 **AI for Techies** Certification (2025)
+*   🎯 **Computer Networks** NPTEL & CIIIT Tata Technologies (2024)
 
 ---
 
