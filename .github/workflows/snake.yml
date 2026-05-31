@@ -10,29 +10,29 @@ on:
 
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
     
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      # Generates the snake SVG directly into the workspace root
-      - name: Generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
+      # Generates the snake animation files into the execution workspace
+      - name: Generate Snake Files
+        uses: Platane/snk@v3
         with:
           github_user_name: SakshamDevloper
           outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # Commits the file directly back to the main branch
-      - name: Commit and Push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
-          git commit -m "Automated update of snake animation graph" || exit 0
-          git push origin main
+      # Safe mechanism to deploy the assets onto an isolated branch called 'output'
+      - name: Push to Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
