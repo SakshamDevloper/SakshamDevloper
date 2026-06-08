@@ -595,7 +595,7 @@ Weekend         ████░░░░░░  45%  Research & Learning
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2027 Goals
 
 - [ ] 🤖 Deploy 3+ GenAI applications
 - [ ] 📊 Master advanced MLOps
