@@ -101,7 +101,7 @@ Portfolio Coverage
 
 ## 🚀 Featured Projects Showcase
 
-### 🧠 **ATHENA - AI Voice Assistant**
+### 🧠 **Nexus - AI Voice Assistant**
 *Desktop AI companion with voice control & system automation*
 
 <p align="center">
