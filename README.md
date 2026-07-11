@@ -10,7 +10,7 @@
 
 <div align="center">
 
-**[🔝 Back to Top](#saksham-sethi)** | **[📧 Email](mailto:sakshamsethi353@gmail.com)** | **[💼 LinkedIn](https://linkedin.com/in/SakshamDevloper)** | **[🌐 Portfolio](#featured-projects)** | **[📱 Instagram](https://instagram.com/_itss_saksham_92)**
+**[🔝 Back to Top](#saksham-sethi)** | **[📧 Email](mailto:sakshamsethi353@gmail.com)** | **[💼 LinkedIn](https://linkedin.com/in/SakshamDevloper)** | **[🌐 Portfolio](#featured-projects)** | **[📱 Instagram](https://instagram.com/_itss_saksham_92)** | **[🧩 LeetCode](https://leetcode.com/u/SakshamDevloper/)**
 
 </div>
 
@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=SakshamDevloper&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/SakshamDevloper?style=for-the-badge&color=00D9FF&label=FOLLOWERS" />
   <img src="https://img.shields.io/github/stars/SakshamDevloper?style=for-the-badge&color=FFD700&label=STARS" />
-  <img src="https://img.shields.io/badge/Repos-12%2B-00F7FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repos-19-00F7FF?style=for-the-badge" />
 </p>
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" width="100%" />
@@ -49,7 +49,7 @@ I'm a results-driven engineer with a passion for building intelligent systems th
 ### 🎓 Background
 - **Education:** B.E. IT, Parul Institute
 - **Experience:** SDE Intern @Cognifyz
-- **Location:** Jamnu, India
+- **Location:** Jammu, India
 - **Availability:** Open to Relocation & Remote
 
 </td>
@@ -67,13 +67,13 @@ I'm a results-driven engineer with a passion for building intelligent systems th
 ### 📈 **300+**
 DSA Problems Solved
 <br/>
-<sub>LeetCode Mastery</sub>
+<sub>Python, Java & MySQL on LeetCode</sub>
 
 </td>
 <td align="center" width="25%">
 
-### 🤖 **12+**
-Production Projects
+### 🤖 **19**
+GitHub Repositories
 <br/>
 <sub>AI to Backend</sub>
 
@@ -101,7 +101,7 @@ Portfolio Coverage
 
 ## 🚀 Featured Projects Showcase
 
-### 🧠 **Nexus - AI Voice Assistant**
+### 🧠 **Nexus AI Assistant** *(codenamed ATHENA)*
 *Desktop AI companion with voice control & system automation*
 
 <p align="center">
@@ -122,8 +122,8 @@ Portfolio Coverage
 └─ Document generation via voice
 ```
 
-**Tech:** Python | Groq LLaMA 3.3 | OpenAI API | Azure TTS | Speech Recognition | PyGame  
-**[🔗 Repository](https://github.com/SakshamDevloper/ATHENA-AI-Assistant)** | **[📋 Full Details](./projects/ATHENA.md)**
+**Tech:** Python | Groq LLaMA 3.3 | OpenAI API | Azure TTS | Speech Recognition | PyGame
+**[🔗 Repository](https://github.com/SakshamDevloper/Nexus-AI-Assistant)** | **[📋 Full Details](./projects/ATHENA.md)**
 
 ---
 
@@ -147,7 +147,7 @@ Portfolio Coverage
 └─ Medical-grade documentation
 ```
 
-**Tech:** Python | TensorFlow/Keras | OpenCV | NumPy | Scikit-learn | Matplotlib  
+**Tech:** Python | TensorFlow/Keras | OpenCV | NumPy | Scikit-learn | Matplotlib
 **[🔗 Repository](https://github.com/SakshamDevloper/Brain-Tumor-Detection)** | **[📋 Full Details](./projects/BrainTumor.md)**
 
 ---
@@ -172,7 +172,7 @@ Portfolio Coverage
 └─ Production-ready predictions
 ```
 
-**Tech:** Python | Statsmodels | Pandas | NumPy | Scikit-learn | Matplotlib/Seaborn  
+**Tech:** Python | Statsmodels | Pandas | NumPy | Scikit-learn | Matplotlib/Seaborn
 **[🔗 Repository](https://github.com/SakshamDevloper/Sales-Forecasting)** | **[📋 Full Details](./projects/SalesForecasting.md)**
 
 ---
@@ -197,7 +197,7 @@ Portfolio Coverage
 └─ Farmer-friendly interface
 ```
 
-**Tech:** React | Node.js | Express | MongoDB | Drizzle ORM | CNN | TensorFlow  
+**Tech:** React | Node.js | Express | MongoDB | Drizzle ORM | CNN | TensorFlow
 **[🔗 Repository](https://github.com/SakshamDevloper/Plant-Disease-Detection)** | **[📋 Full Details](./projects/PlantDisease.md)**
 
 ---
@@ -226,8 +226,8 @@ Portfolio Coverage
 └─ More...
 ```
 
-**Tech:** React | Node.js | Express | MongoDB | Redux | CSS/SCSS | REST APIs  
-**[🔗 Repository](https://github.com/SakshamDevloper/PROECTS)** | **[📋 Full Details](./projects/Portfolio.md)**
+**Tech:** React | Node.js | Express | MongoDB | Redux | CSS/SCSS | REST APIs
+**[🔗 Repository](https://github.com/SakshamDevloper/Full-Stack-Portfolio)** | **[📋 Full Details](./projects/Portfolio.md)**
 
 ---
 
@@ -288,7 +288,9 @@ Portfolio Coverage
 ### 🏆 LeetCode Problem-Solving Journey
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/SakshamDevloper?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/SakshamDevloper/">
+    <img src="https://leetcard.jacoblin.cool/SakshamDevloper?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </p>
 
 **300+ Problems Solved Across:**
@@ -297,6 +299,9 @@ Portfolio Coverage
 - ✅ Dynamic Programming (Advanced)
 - ✅ Hash Maps & Queues (Mastery)
 - ✅ Greedy & Backtracking (Advanced)
+
+Languages: Python (262 solved) · Java (103 solved) · MySQL (11 solved)
+Badges: 50 Days Badge 2026 · 100 Days Badge 2026 · June LeetCoding Challenge
 
 ---
 
@@ -346,6 +351,8 @@ NPTEL + CIIIT
 </td>
 </table>
 
+> Add your Credly / certificate verification links here once available — badges with a click-through link carry far more weight with recruiters than text alone.
+
 ---
 
 ## 🎓 Professional Growth Timeline
@@ -367,7 +374,7 @@ NPTEL + CIIIT
 
 2025-Present: Expert Phase
 ├─ 300+ DSA problems solved
-├─ 12+ production projects deployed
+├─ 19 GitHub repositories shipped
 ├─ Leading GenAI initiatives
 ├─ Building enterprise systems
 └─ Mentoring & Knowledge Sharing
@@ -399,7 +406,7 @@ NPTEL + CIIIT
 
 | Project | Type | Status | Impact |
 |---------|------|--------|--------|
-| **ATHENA** | AI Assistant | ✅ Active | Voice Control Revolution |
+| **Nexus AI Assistant (ATHENA)** | AI Assistant | ✅ Active | Voice Control Revolution |
 | **Brain Tumor Detection** | Healthcare AI | ✅ Deployed | 97% Accuracy |
 | **Sales Forecasting** | Time Series | ✅ Production | 12.98% MAPE |
 | **Plant Disease Detection** | Full-Stack ML | ✅ Live | Agriculture Ready |
@@ -468,7 +475,7 @@ class SakshamDevloper:
             'scalability': 'Enterprise-Grade',
             'innovation': 'Continuous'
         }
-    
+
     def daily_routine(self):
         while True:
             self.learn()
@@ -476,7 +483,7 @@ class SakshamDevloper:
             self.ship()
             self.improve()
             self.share_knowledge()
-    
+
     def problem_solving_approach(self):
         return {
             '1_understand': 'Deep dive into requirements',
@@ -513,13 +520,14 @@ class SakshamDevloper:
 
 <p align="center">
 
-### Let's Connect! 
+### Let's Connect!
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>](https://linkedin.com/in/SakshamDevloper)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>](mailto:sakshamsethi353@gmail.com)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>](https://instagram.com/_itss_saksham_92)
 [<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>](https://github.com/SakshamDevloper)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>](https://twitter.com/SakshamDevloper)
+[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>](https://x.com/SakshamSethi353)
+[<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>](https://leetcode.com/u/SakshamDevloper/)
 [<img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>](#featured-projects)
 
 </p>
@@ -641,7 +649,7 @@ Feel free to use, modify, and distribute with proper attribution.
 
 **Made with ❤️ by [Saksham Sethi](https://github.com/SakshamDevloper)**
 
-*Last Updated: June 2026*
+*Last Updated: July 2026*
 
 <img src="https://img.shields.io/badge/Status-Always%20Shipping%20-brightgreen?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Coffee%20Consumed-100%2B%20cups-brown?style=for-the-badge" />
@@ -652,7 +660,7 @@ Feel free to use, modify, and distribute with proper attribution.
 
 ## 📌 Quick Navigation
 
-[📫 Email Me](mailto:sakshamsethi353@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/SakshamDevloper) • [🐙 GitHub](https://github.com/SakshamDevloper) • [📱 Instagram](https://instagram.com/_itss_saksham_92) • [🔝 Back to Top](#saksham-sethi)
+[📫 Email Me](mailto:sakshamsethi353@gmail.com) • [💼 LinkedIn](https://linkedin.com/in/SakshamDevloper) • [🐙 GitHub](https://github.com/SakshamDevloper) • [🧩 LeetCode](https://leetcode.com/u/SakshamDevloper/) • [📱 Instagram](https://instagram.com/_itss_saksham_92) • [🔝 Back to Top](#saksham-sethi)
 
 ---
 
