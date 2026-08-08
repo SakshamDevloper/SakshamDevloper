@@ -1,9 +1,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=Saksham%20Sethi&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI/ML%20Engineer%20%7C%20GenAI%20%2B%20Full%20Stack%20Backend%20Developer&descAlignY=60&descColor=00F7FF">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=Saksham%20Sethi&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI/ML%20Engineer%20%7C%20GenAI%20%2B%20Full%20Stack%20Backend%20Developer&descAlignY=60&descColor=00F7FF">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=250&section=header&text=Saksham%20Sethi&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI/ML%20Engineer%20%7C%20GenAI%20%2B%20Full%20Stack%20Backend%20Developer&descAlignY=60&descColor=00F7FF" width="100%">
 </picture>
 
+<div align="center">
+
 <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80+Building+Production-Grade+AI+%26+Backend+Systems;%F0%9F%A4%96+GenAI+%26+RAG+%2B+Multi-Agent+Architect;%F0%9F%92%BB+Backend+System+Developer;%F0%9F%93%8A+ML+Ops+%26+LLM+Fine-tuning+Specialist;%F0%9F%8E%AF+Moving+ML+From+Notebooks+To+Production" alt="Typing SVG">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ce.gif" width="900">
+
+</div>
 
 ---
 
@@ -241,9 +247,49 @@ A full map of every public repo — flagship projects above, everything else bel
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3&section=header" width="100%">
+</picture>
+
+<div align="center">
+
+# 📊 LeetCode Progress
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="80">
+
+### 🏆 300+ Problems Solved
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SakshamDevloper?theme=dark&font=balsamiq&ext=heatmap)](https://leetcode.com/u/SakshamDevloper/)
+
+<img src="https://img.shields.io/badge/Python-262%20Solved-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-103%20Solved-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-11%20Solved-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Arrays%20%26%20Strings-Expert-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/Trees%20%26%20Graphs-Expert-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/Dynamic%20Programming-Advanced-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/Hash%20Maps%20%26%20Queues-Mastery-brightgreen?style=flat-square" />
+<img src="https://img.shields.io/badge/Greedy%20%26%20Backtracking-Advanced-blue?style=flat-square" />
+
+🏅 50 Days Badge 2026 · 100 Days Badge 2026 · June LeetCoding Challenge
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=3&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00F7FF&height=3&section=header" width="100%">
+</picture>
+
+---
+
 ## 💡 Technology Ecosystem
 
+<div align="center">
+
 ![Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,javascript,nodejs,react,fastapi,mongodb,mysql,postgresql,git,docker,linux,aws,postman,java,cpp)
+
+</div>
 
 ### 🎯 Specialized Areas
 
@@ -252,23 +298,15 @@ A full map of every public repo — flagship projects above, everything else bel
 
 ---
 
-## 📊 GitHub Analytics & Problem-Solving
+## 📊 GitHub Analytics
+
+<div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SakshamDevloper&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&fire=FF6B00&currStreakNum=00F7FF&sideNums=00F7FF&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=00F7FF)
 
-### 🏆 LeetCode Problem-Solving Journey
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SakshamDevloper&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=8A2BE2&point=FFFFFF)
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/SakshamDevloper?theme=dark&font=balsamiq&ext=heatmap)](https://leetcode.com/u/SakshamDevloper/)
-
-**300+ Problems Solved Across:**
-- ✅ Arrays & Strings (Expert)
-- ✅ Trees & Graphs (Expert)
-- ✅ Dynamic Programming (Advanced)
-- ✅ Hash Maps & Queues (Mastery)
-- ✅ Greedy & Backtracking (Advanced)
-
-Languages: Python (262 solved) · Java (103 solved) · MySQL (11 solved)
-Badges: 50 Days Badge 2026 · 100 Days Badge 2026 · June LeetCoding Challenge
+</div>
 
 ---
 
@@ -315,15 +353,23 @@ Badges: 50 Days Badge 2026 · 100 Days Badge 2026 · June LeetCoding Challenge
 
 ## 🌐 Contribution Graph
 
+<div align="center">
+
 [![Snake Contribution Graph](https://raw.githubusercontent.com/SakshamDevloper/SakshamDevloper/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/SakshamDevloper/SakshamDevloper/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ---
 
 ## 📈 Repository Statistics
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakshamDevloper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=00F7FF&icon_color=8A2BE2&title_color=00F7FF&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamDevloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=00F7FF&title_color=00F7FF)
+
+</div>
 
 ---
 
