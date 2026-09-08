@@ -6,7 +6,7 @@
 
 <br/>
 
-<img width="220" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="curious tech geek" />
+<img width="150" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="curious tech geek" />
 <img width="90" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="celebration confetti" />
 
 <br/><br/>
@@ -166,7 +166,7 @@ Four agents — **Planner, Researcher, Executor, Critic** — run as an explicit
 - LiteLLM-backed model routing for provider fallback resilience
 - PostgreSQL persistence via Alembic-managed migrations
 
-<img width="130" align="right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="agent bot" />
+<img width="90" align="right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="agent bot" />
 
 **[→ View Repo](https://github.com/SakshamDevloper/LangGraph-Multi-Agent-Orchestration-System)**
 
@@ -185,7 +185,7 @@ Real-time speech recognition wired to LLM integration for hands-free system auto
 - Deployed with a split strategy — frontend on Netlify, backend on Railway
 - Designed as a primary showcase project for full-stack + AI integration skill
 
-<img width="130" align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="voice chat" />
+<img width="90" align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="voice chat" />
 
 **[→ View Repo](https://github.com/SakshamDevloper/Nexus-AI-Assistant)**
 
@@ -204,7 +204,7 @@ Ingests industrial PDFs, P&IDs, scanned forms, and logs into a unified, natural-
 - Vector retrieval layer over a structured knowledge graph
 - Natural-language query interface over industrial data
 
-<img width="130" align="right" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="multi screen analysis" />
+<img width="90" align="right" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="multi screen analysis" />
 
 **[→ View Repo](https://github.com/SakshamDevloper/KnowledgeBrainAPI)**
 
@@ -223,7 +223,7 @@ A complete MERN hostel management system built from scratch, with role-based das
 - JWT authentication with role-based access control
 - React/Vite/Tailwind frontend, Node.js/Express/MongoDB/Socket.io backend
 
-<img width="130" align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="productive working" />
+<img width="90" align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="productive working" />
 
 **[→ View Repo](https://github.com/SakshamDevloper/HostelManagementSystem)**
 
@@ -237,7 +237,7 @@ A complete MERN hostel management system built from scratch, with role-based das
 
 Classifies MRI scans as tumor-positive or normal via a CNN pipeline with curated train/validation splits — classical CV/ML work alongside the GenAI-heavy projects.
 
-<img width="130" align="right" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" alt="multitasking" />
+<img width="90" align="right" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" alt="multitasking" />
 
 **[→ View Repo](https://github.com/SakshamDevloper/Brain-Tumor-Detection)**
 
@@ -251,7 +251,7 @@ Classifies MRI scans as tumor-positive or normal via a CNN pipeline with curated
 
 A wide range of MERN apps demonstrating REST API design and modern JavaScript across many use cases — the breadth counterpart to the two flagship deep-dive projects above.
 
-<img width="130" align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="workspace" />
+<img width="90" align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="workspace" />
 
 **[→ View Repo](https://github.com/SakshamDevloper/Full-Stack-Portfolio)**
 
@@ -434,7 +434,7 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
 
 <br/><br/>
 
-<img width="180" src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" alt="typing animation" />
+<img width="120" src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" alt="typing animation" />
 <img width="90" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="fire celebration" />
 
 <br/><br/>
