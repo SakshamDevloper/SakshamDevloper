@@ -7,7 +7,7 @@
 <br/>
 
 <img width="220" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="curious tech geek" />
-<img width="150" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="celebration confetti" />
+<img width="90" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="celebration confetti" />
 
 <br/><br/>
 
@@ -148,7 +148,7 @@ I design **LLM systems that behave like software, not demos** — explicit multi
 
 <sub>Completed, portfolio-ready builds</sub>
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="75%">
+<img width="90" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" alt="confetti popper">
 
 </div>
 
@@ -435,7 +435,7 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
 <br/><br/>
 
 <img width="180" src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" alt="typing animation" />
-<img width="120" src="https://media.giphy.com/media/xUOxfjsnI0zn1qhIOM/giphy.gif" alt="fire celebration" />
+<img width="90" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="fire celebration" />
 
 <br/><br/>
 
@@ -524,13 +524,17 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
     cold-start slowly. Reload after a minute before assuming
     something's wrong.
 
-11. FIRE/CONFETTI GIFS
-    The two giphy.com GIFs (confetti near the top, fire near the
-    bottom) are hotlinked from Giphy's public CDN — no setup
-    needed, but Giphy links can occasionally be rotated/removed
-    on their end. If one ever shows broken, swap in any other
-    giphy.com "confetti" or "fire" GIF URL, or pull a replacement
-    from https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub.
+11. FIRE/CONFETTI/POPPER ICONS
+    All three now use user-images.githubusercontent.com GIFs
+    (same permanent CDN as the rest of the file) sized to a
+    fixed width="90" instead of a percentage or an unconstrained
+    Giphy embed — that's what was causing the huge, cropped
+    icons. Fixed pixel widths render reliably on GitHub; percent
+    widths on non-vector images can blow up unpredictably
+    depending on the source image's native size. If you want a
+    different animation, grab another fixed-size GIF from
+    https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub and
+    keep an explicit width="NN" on it.
 
 12. VISITOR COUNTERS
     Two different counters are layered in "Visitors From Around
