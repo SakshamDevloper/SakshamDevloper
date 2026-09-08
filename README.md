@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E2A5B&height=220&section=header&text=Saksham%20Sethi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20(MERN)%20%2B%20GenAI%2FLLM%20Engineer&descAlignY=58&descSize=20" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+RAG+pipelines+%26+multi-agent+systems;Shipping+full-stack+MERN+applications;Designing+LangGraph+state+machines%2C+not+demos;Final-Year+B.Tech+IT+%40+Parul+University;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Building+RAG+pipelines+%26+multi-agent+systems;Shipping+full-stack+MERN+applications;Designing+LangGraph+state+machines%2C+not+demos;Final-Year+B.Tech+IT+%40+Parul+University;Open+to+Internships+%26+Entry-Level+Roles;Debugging+at+2am+with+coffee+and+conviction;Turning+prompt+chains+into+real+state+machines" alt="Typing SVG" />
 
 <br/>
 
@@ -18,6 +18,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=SakshamDevloper&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/github/followers/SakshamDevloper?style=for-the-badge&color=6C63FF&labelColor=2E2A5B&label=FOLLOWERS" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80%">
 
 </div>
 
@@ -50,6 +54,8 @@ I design **LLM systems that behave like software, not demos** — explicit multi
 🛠️ Also mid-build on a Netflix-clone frontend (React/Vite/Tailwind + TMDB)
 💬 Ask me about RAG architecture, agent state machines, or MERN system design
 📌 Maintaining a professional developer brand across GitHub & LeetCode
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=2200&pause=900&color=8A85FF&center=false&vCenter=true&width=500&lines=git+commit+-m+%22ship+it%22;while(learning)+%7B+build(); %7D;status%3A+online" alt="mini typing" />
 
 </td>
 <td valign="top" width="45%">
@@ -105,6 +111,10 @@ I design **LLM systems that behave like software, not demos** — explicit multi
 
 <img src="https://skillicons.dev/icons?i=git,docker,vscode,postman,githubactions&theme=dark" />
 
+<br/><br/>
+
+<sub>Skill icons above pulse/animate on hover via skillicons.dev's built-in rendering — no extra config needed.</sub>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E2A5B&height=20&section=header" />
@@ -114,6 +124,8 @@ I design **LLM systems that behave like software, not demos** — explicit multi
 ## 🚀 Featured Projects
 
 <sub>Completed, portfolio-ready builds</sub>
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="60%">
 
 </div>
 
@@ -242,6 +254,10 @@ Full frontend scaffold in place; actively building out the `MovieCard`, the full
 **🧭 Conductor Hardening** — `LangGraph` · `LiteLLM` · `PostgreSQL`
 Taking Conductor from "working" to "production-styled": end-to-end verification of the four-agent flow, live LiteLLM fallback wiring, and running Alembic migrations against a live PostgreSQL instance rather than local dev.
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=2400&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Netflix+Clone%3A+MovieCard+%E2%86%92+ContentRow+%E2%86%92+TitleModal;Conductor%3A+four+agents%2C+one+state+machine%2C+zero+silent+failures" alt="progress typing" />
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E2A5B&height=20&section=header" />
 
 <div align="center">
@@ -264,6 +280,12 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
 <img width="100%" src="https://raw.githubusercontent.com/SakshamDevloper/SakshamDevloper/output/github-contribution-grid-snake.svg" />
 
 <sub>⚙️ Animated snake activates once the daily GitHub Action is added — see setup note at the bottom.</sub>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamDevloper&theme=react-dark&hide_border=true&bg_color=00000000&color=8A85FF&line=8A85FF&point=ffffff&custom_title=Yearly%20Contribution%20Rhythm" />
+
+<sub>Second activity graph, different theme/palette — remove this one if a single graph feels like enough motion on the page.</sub>
 
 </div>
 
@@ -310,6 +332,32 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
 
 <div align="center">
 
+## 💭 Random Quote of the Visit
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote" />
+
+<sub>Refreshes with a new quote on every profile view/reload — see setup note if it doesn't render.</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2A5B,100:6C63FF&height=20&section=header" />
+
+<div align="center">
+
+## 🎧 Now Playing
+
+<a href="https://open.spotify.com">
+<img src="https://novatorem-saksham.vercel.app/api/spotify" alt="spotify now playing" />
+</a>
+
+<sub>Requires a small free deployment of `novatorem` linked to your Spotify account — see setup note at the bottom. Delete this section if you'd rather not run that.</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E2A5B&height=20&section=header" />
+
+<div align="center">
+
 ## 📫 Let's Connect
 
 <img width="130" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" alt="hi there" />
@@ -322,7 +370,7 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let's+build+something+together" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let's+build+something+together;Star+a+repo+if+something+here+was+useful" />
 
 <br/><br/>
 
@@ -341,9 +389,10 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
   SETUP NOTES — invisible on the rendered page, read once
 ============================================================
 
-1. EVERYTHING except the snake animation, trophy image, and
-   WakaTime card works immediately — they're hosted, live-
-   generated images keyed to your username. No config needed.
+1. EVERYTHING except the snake animation, trophy image, quote-
+   of-the-visit, Spotify card, and WakaTime card works
+   immediately — they're hosted, live-generated images keyed
+   to your username. No config needed.
 
 2. ANIMATED SNAKE (contribution grid)
    One-time setup:
@@ -362,7 +411,22 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
    <img> line and the <sub> note below it — no other setup
    needed for anything else in this file.
 
-4. ALL THE SMALL ACCENT GIFS
+4. QUOTE OF THE VISIT
+   quotes-github-readme is a free hosted widget and needs no
+   setup — it just fetches a new quote per render. If it ever
+   goes down, delete the whole "Random Quote of the Visit"
+   section; nothing else depends on it.
+
+5. NOW PLAYING (SPOTIFY)
+   The URL used here (novatorem-saksham.vercel.app) is a
+   placeholder pattern — novatorem is an open-source template
+   you deploy yourself to Vercel and link to your own Spotify
+   account via its README (search "novatorem spotify readme").
+   Until you deploy your own instance and swap in that URL,
+   delete the "Now Playing" section — the placeholder link
+   will not work as-is.
+
+6. ALL THE SMALL ACCENT GIFS
    Every gif in this file — the intro, the per-project ones,
    the section accents, the dancing parrots — is hosted on
    either user-images.githubusercontent.com (GitHub's own
@@ -374,32 +438,38 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
    private-user-images.githubusercontent.com anywhere, since
    those carry a short-lived signed token and will break.
 
-5. DIVIDERS NOW ANIMATE
-   The thin section dividers switched from a static gradient
-   bar (type=rect) to a gently animated wave (type=waving,
-   height=20). If that motion feels like too much while
-   scrolling, change type=waving back to type=rect on those
-   lines and drop height back to 3.
+7. DIVIDERS ANIMATE
+   The thin section dividers use a gently animated wave
+   (type=waving, height=20). If that motion feels like too much
+   while scrolling, change type=waving back to type=rect on
+   those lines and drop height back to 3.
 
-6. COLOR THEME
+8. TWO ACTIVITY GRAPHS
+   A second activity-graph call was added under the first with
+   a different theme/palette purely for visual variety. If two
+   near-identical animated graphs feels redundant, delete the
+   second one and its <sub> note.
+
+9. COLOR THEME
    Everything is tied to one accent (#6C63FF) across the
    header, dividers, badges, and stat cards so it reads as one
    designed piece rather than stitched-together widgets.
    Change the hex in the capsule-render/stats URLs if you want
    a different accent — keep it consistent across all of them.
 
-7. IF A WIDGET LOOKS BROKEN RIGHT AFTER PUSHING
-   The stats/streak/activity-graph/trophy services run on free
-   hosted instances and can be briefly rate-limited. Reload
-   after a minute before assuming something's wrong.
+10. IF A WIDGET LOOKS BROKEN RIGHT AFTER PUSHING
+    The stats/streak/activity-graph/trophy/quote services run on
+    free hosted instances and can be briefly rate-limited or
+    cold-start slowly. Reload after a minute before assuming
+    something's wrong.
 
-8. REPO NAMES USED IN THIS FILE
-   Conductor -> LangGraph-Multi-Agent-Orchestration-System
-   Nexus AI Assistant -> Nexus-AI-Assistant
-   Hostel Management System -> HostelManagementSystem
-   Full-Stack Portfolio -> Full-Stack-Portfolio
-   KnowledgeBrainAPI and Brain-Tumor-Detection use their own
-   names as-is. Update any of these if your actual repo slugs
-   differ.
+11. REPO NAMES USED IN THIS FILE
+    Conductor -> LangGraph-Multi-Agent-Orchestration-System
+    Nexus AI Assistant -> Nexus-AI-Assistant
+    Hostel Management System -> HostelManagementSystem
+    Full-Stack Portfolio -> Full-Stack-Portfolio
+    KnowledgeBrainAPI and Brain-Tumor-Detection use their own
+    names as-is. Update any of these if your actual repo slugs
+    differ.
 ============================================================
 -->
