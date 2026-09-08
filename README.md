@@ -1,12 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E2A5B&height=220&section=header&text=Saksham%20Sethi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20(MERN)%20%2B%20GenAI%2FLLM%20Engineer&descAlignY=58&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E2A5B&height=260&section=header&text=🔥%20Saksham%20Sethi%20🔥&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20(MERN)%20%2B%20GenAI%2FLLM%20Engineer&descAlignY=58&descSize=22" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=1000&color=6C63FF&center=true&vCenter=true&width=750&lines=Building+RAG+pipelines+%26+multi-agent+systems;Shipping+full-stack+MERN+applications;Designing+LangGraph+state+machines%2C+not+demos;Final-Year+B.Tech+IT+%40+Parul+University;Open+to+Internships+%26+Entry-Level+Roles;Debugging+at+2am+with+coffee+and+conviction;Turning+prompt+chains+into+real+state+machines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=24&duration=2600&pause=1000&color=6C63FF&center=true&vCenter=true&width=780&lines=🚀+Building+RAG+pipelines+%26+multi-agent+systems;⚡+Shipping+full-stack+MERN+applications;🧠+Designing+LangGraph+state+machines%2C+not+demos;🎓+Final-Year+B.Tech+IT+%40+Parul+University;🟢+Open+to+Internships+%26+Entry-Level+Roles;☕+Debugging+at+2am+with+coffee+and+conviction;🔗+Turning+prompt+chains+into+real+state+machines" alt="Typing SVG" />
 
 <br/>
 
-<img width="180" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="curious tech geek" />
+<img width="220" src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" alt="curious tech geek" />
+<img width="150" src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="celebration confetti" />
+
+<br/><br/>
+
+<sub>🎉 Thanks for visiting — scroll on, there's a lot going on below 🎉</sub>
 
 <br/><br/>
 
@@ -21,7 +26,7 @@
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="80%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100%">
 
 </div>
 
@@ -74,11 +79,11 @@ I design **LLM systems that behave like software, not demos** — explicit multi
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack 🔥
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="45"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="45"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="45"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="45"><img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="45"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="45"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="45">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="55"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="55"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="55"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="55"><img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="55"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="55"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="55">
 
 <br/><br/>
 
@@ -115,17 +120,35 @@ I design **LLM systems that behave like software, not demos** — explicit multi
 
 <sub>Skill icons above pulse/animate on hover via skillicons.dev's built-in rendering — no extra config needed.</sub>
 
+<br/><br/>
+
+**⚡ Proficiency Snapshot**
+
+`LangGraph / Multi-Agent`
+![](https://progress-bar.dev/85/?width=350&color=6C63FF)
+
+`RAG / Vector Retrieval`
+![](https://progress-bar.dev/80/?width=350&color=6C63FF)
+
+`React / Node / MongoDB`
+![](https://progress-bar.dev/88/?width=350&color=6C63FF)
+
+`Python / TensorFlow / OpenCV`
+![](https://progress-bar.dev/75/?width=350&color=6C63FF)
+
+<sub>🔥 These bars are self-rated, not auto-measured — adjust the numbers whenever your comfort level shifts.</sub>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E2A5B&height=20&section=header" />
 
 <div align="center">
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects 🎉
 
 <sub>Completed, portfolio-ready builds</sub>
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="60%">
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="75%">
 
 </div>
 
@@ -293,9 +316,30 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
 
 <div align="center">
 
-## 🏆 Trophies
+## 🏆 Trophies 🎉
 
 <img src="https://github-profile-trophy.vercel.app/?username=SakshamDevloper&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2A5B,100:6C63FF&height=20&section=header" />
+
+<div align="center">
+
+## 🎊 Milestones & Achievements
+
+<img width="120" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="achievement celebration" />
+
+<br/><br/>
+
+🏗️ **Shipped 6 portfolio-ready repos**, spanning GenAI orchestration, RAG, MERN, and classical CV
+🧭 **Conductor** — went from prototype to an explicit 4-agent LangGraph state machine
+🎤 **Nexus AI Assistant** — real-time voice pipeline deployed across two hosts (Netlify + Railway)
+📚 **KnowledgeBrainAPI** — unified ingestion for scanned + digital industrial documents
+🔥 **12+ MERN builds** in the general portfolio, on top of the two flagship deep-dives
+🎯 **Currently pushing** Conductor and the Netflix clone toward production polish
+
+<sub>🎉 This list is manually maintained — add a line here whenever you ship something worth bragging about.</sub>
 
 </div>
 
@@ -358,9 +402,25 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
 
 <div align="center">
 
-## 📫 Let's Connect
+## 🌍 Visitors From Around the World
 
-<img width="130" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" alt="hi there" />
+<img src="https://count.getloli.com/get/@SakshamDevloper?theme=moebooru" alt="visitor counter" />
+
+<br/><br/>
+
+<img width="80%" src="https://profile-counter.glitch.me/SakshamDevloper/count.svg" alt="visitor map style counter" />
+
+<sub>🔥 Two different visitor-counter styles layered here purely for flair — delete whichever one you don't like.</sub>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2A5B,100:6C63FF&height=20&section=header" />
+
+<div align="center">
+
+## 📫 Let's Connect 🎉
+
+<img width="150" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" alt="hi there" />
 
 <br/><br/>
 
@@ -370,11 +430,12 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let's+build+something+together;Star+a+repo+if+something+here+was+useful" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=🎉+Thanks+for+stopping+by+%F0%9F%91%8B;🔥+Let's+build+something+together;⭐+Star+a+repo+if+something+here+was+useful" />
 
 <br/><br/>
 
-<img width="150" src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" alt="typing animation" />
+<img width="180" src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" alt="typing animation" />
+<img width="120" src="https://media.giphy.com/media/xUOxfjsnI0zn1qhIOM/giphy.gif" alt="fire celebration" />
 
 <br/><br/>
 
@@ -463,7 +524,30 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
     cold-start slowly. Reload after a minute before assuming
     something's wrong.
 
-11. REPO NAMES USED IN THIS FILE
+11. FIRE/CONFETTI GIFS
+    The two giphy.com GIFs (confetti near the top, fire near the
+    bottom) are hotlinked from Giphy's public CDN — no setup
+    needed, but Giphy links can occasionally be rotated/removed
+    on their end. If one ever shows broken, swap in any other
+    giphy.com "confetti" or "fire" GIF URL, or pull a replacement
+    from https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub.
+
+12. VISITOR COUNTERS
+    Two different counters are layered in "Visitors From Around
+    the World" purely for visual variety (count.getloli.com and
+    profile-counter.glitch.me). Both are free, keyed to your
+    username, and need no setup — but glitch.me projects can
+    cold-start slowly after inactivity. Delete either line, or
+    the whole section, if one style is enough.
+
+13. PROFICIENCY BARS
+    progress-bar.dev renders a static bar image from the number
+    in the URL (e.g. /85/ = 85%). These are NOT auto-measured
+    from your code — update the numbers by hand as your skills
+    change, or delete the section if self-rated bars aren't your
+    style.
+
+14. REPO NAMES USED IN THIS FILE
     Conductor -> LangGraph-Multi-Agent-Orchestration-System
     Nexus AI Assistant -> Nexus-AI-Assistant
     Hostel Management System -> HostelManagementSystem
