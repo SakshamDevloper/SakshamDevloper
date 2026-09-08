@@ -292,7 +292,7 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
 <br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamDevloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6C63FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamDevloper&theme=tokyonight&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=SakshamDevloper&theme=tokyonight&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 
 <br/><br/>
 
@@ -350,7 +350,7 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
 ## 💻 Coding Activity
 
 <a href="https://leetcode.com/SakshamDevloper">
-<img src="https://leetcode-stats-eight-alpha.vercel.app/api?username=SakshamDevloper&theme=dark" />
+<img src="https://leetcode-stats.vercel.app/api?username=SakshamDevloper&theme=Dark" />
 </a>
 
 </div>
@@ -406,11 +406,7 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
 
 <img src="https://count.getloli.com/get/@SakshamDevloper?theme=moebooru" alt="visitor counter" />
 
-<br/><br/>
-
-<img width="80%" src="https://profile-counter.glitch.me/SakshamDevloper/count.svg" alt="visitor map style counter" />
-
-<sub>🔥 Two different visitor-counter styles layered here purely for flair — delete whichever one you don't like.</sub>
+<sub>🔥 The old second counter here (profile-counter.glitch.me) is removed — Glitch shut down all project hosting in July 2025, so that widget no longer resolves.</sub>
 
 </div>
 
@@ -536,13 +532,21 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
     https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub and
     keep an explicit width="NN" on it.
 
-12. VISITOR COUNTERS
-    Two different counters are layered in "Visitors From Around
-    the World" purely for visual variety (count.getloli.com and
-    profile-counter.glitch.me). Both are free, keyed to your
-    username, and need no setup — but glitch.me projects can
-    cold-start slowly after inactivity. Delete either line, or
-    the whole section, if one style is enough.
+12. FIXED/DEAD LINKS FROM EARLIER DRAFTS (as of Sep 2026)
+    - Streak stats: moved off Heroku a while back, now served
+      from streak-stats.demolab.com — updated.
+    - LeetCode badge: was pointed at someone else's personal
+      Vercel deployment (leetcode-stats-eight-alpha.vercel.app),
+      which won't reliably serve your data — swapped to the
+      public leetcode-stats.vercel.app service.
+    - Visitor counter: profile-counter.glitch.me is gone —
+      Glitch shut down all project/app hosting on July 8, 2025.
+      Removed; count.getloli.com (a different, still-live
+      service) is kept as the single visitor counter.
+    Free third-party README widgets do go dark over time — if
+    any image in this file ever shows broken, that's usually why;
+    search "[service name] github readme alternative" to find
+    a current replacement.
 
 13. PROFICIENCY BARS
     progress-bar.dev renders a static bar image from the number
