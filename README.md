@@ -1,516 +1,268 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&width=650&height=90&lines=Hi+%F0%9F%91%8B%2C+I'm+Saksham+Sethi;Full-Stack+(MERN)+%2B+GenAI%2FLLM+Engineer;Building+RAG%2C+Agents+%26+Production-Ready+Apps" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E2A5B&height=220&section=header&text=Saksham%20Sethi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20(MERN)%20%2B%20GenAI%2FLLM%20Engineer&descAlignY=58&descSize=20" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+RAG+pipelines+%26+multi-agent+systems;Shipping+full-stack+MERN+applications;Final-Year+B.Tech+IT+%40+Parul+University;Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SakshamDevloper)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/SakshamDevloper)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakshamDevloper)
+<a href="https://www.linkedin.com/in/SakshamDevloper"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/SakshamDevloper"><img src="https://img.shields.io/badge/LeetCode-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://github.com/SakshamDevloper"><img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SakshamDevloper&color=6C63FF&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/SakshamDevloper?style=flat-square&color=6C63FF&label=Followers)
+<img src="https://komarev.com/ghpvc/?username=SakshamDevloper&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/SakshamDevloper?style=for-the-badge&color=6C63FF&labelColor=2E2A5B&label=FOLLOWERS" />
 
 </div>
 
-<br/>
-
-## 📌 Table of Contents
-
-- [About Me](#-about-me)
-- [Quick Facts](#-quick-facts)
-- [Tech Stack](#️-tech-stack)
-  - [GenAI / LLM Engineering](#genai--llm-engineering)
-  - [Full-Stack Development](#full-stack-development)
-  - [Languages & Core](#languages--core)
-  - [Machine Learning & Computer Vision](#machine-learning--computer-vision)
-  - [Tools & Platforms](#tools--platforms)
-- [Featured Projects](#-featured-projects)
-- [GitHub Stats](#-github-stats)
-- [Coding Activity](#-coding-activity)
-- [What I'm Focused On](#-what-im-focused-on-right-now)
-- [How I Approach Projects](#-how-i-approach-projects)
-- [Beyond Code](#-beyond-code)
-- [Let's Connect](#-lets-connect)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:2E2A5B&height=3&section=header" />
 
 <br/>
 
-## 🧑‍💻 About Me
+<table align="center">
+<tr>
+<td valign="top" width="55%">
+
+### 🧑‍💻 About Me
 
 ```yaml
-name:        Saksham Sethi
-role:        Final-Year B.Tech IT Student
-university:  Parul Institute of Engineering and Technology, Parul University
-location:    Jammu, India 🇮🇳
-focus:
-  - Full-Stack Development (MERN)
-  - GenAI / LLM Engineering
-  - RAG Pipelines & Multi-Agent Systems
-  - Classical ML & Computer Vision
-looking_for: Internships & Entry-Level SDE / AI-ML Roles
-currently:   Building portfolio-grade, production-styled projects
+role:     Final-Year B.Tech IT Student
+uni:      Parul Institute of Engineering & Technology
+location: Jammu, India 🇮🇳
+focus:    GenAI/LLM Engineering · Full-Stack MERN
+status:   Open to internships & entry-level roles
 ```
 
-I'm a final-year IT undergrad who spends most of my time at the intersection of **full-stack engineering** and **applied GenAI**. On one side I build MERN applications with real-time features and clean architecture; on the other I design LLM systems — RAG pipelines, multi-agent orchestration graphs, and retrieval infrastructure — that go beyond notebook demos into something that actually resembles production software.
+I design **LLM systems that behave like software, not demos** — explicit multi-agent state machines, RAG pipelines, and retrieval infra — and pair that with **full-stack MERN builds** that ship with real-time features and clean architecture.
 
-I care less about "just making it work" and more about making it work *well*: sensible state management, explicit control flow (especially in agentic systems), and interfaces that don't feel like a hackathon leftover. Most of what's pinned below reflects that — nothing here is a toy tutorial clone.
+🔭 Building deeper agent orchestration patterns
+🌱 Sharpening LangGraph + system design fundamentals
+💬 Ask me about RAG architecture or agent state machines
 
-I got into GenAI engineering through the same door a lot of people did — playing with an LLM API and being surprised at what it could do — but what kept me here was the systems side of it: how do you make a language model reliable enough to plug into something someone actually depends on? That question is basically the thread running through everything pinned on this profile.
+</td>
+<td valign="top" width="45%">
 
-<br/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SakshamDevloper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6C63FF&icon_color=6C63FF" />
 
-## ⚡ Quick Facts
+</td>
+</tr>
+</table>
 
-| | |
-|---|---|
-| 🎓 **Education** | B.Tech Information Technology, Final Year |
-| 🏫 **Institution** | Parul Institute of Engineering and Technology |
-| 📍 **Location** | Jammu, India |
-| 💼 **Status** | Open to internships & entry-level roles |
-| 🧠 **Primary Interest** | GenAI / LLM Systems Engineering |
-| 🌐 **Secondary Interest** | Full-Stack (MERN) Development |
-| 🔭 **Currently Building** | Multi-agent orchestration systems & RAG pipelines |
-| 🌱 **Currently Sharpening** | LangGraph, distributed agent design, system design fundamentals |
-| 💬 **Ask Me About** | RAG architecture, LangGraph state machines, MERN system design |
-| ⚡ **Fun Fact** | I'd rather refactor a working prototype into something production-ready than move on and leave it messy |
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E2A5B,100:6C63FF&height=3&section=header" />
 
-<br/>
+<div align="center">
 
 ## 🛠️ Tech Stack
 
-### GenAI / LLM Engineering
-
-<div align="left">
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-</div>
-
-| Area | Tools |
-|---|---|
-| Orchestration | LangGraph state machines, multi-agent pipelines (Planner / Researcher / Executor / Critic) |
-| Retrieval | RAG pipelines, hybrid search, document ingestion & chunking strategies |
-| Vector Stores | FAISS, ChromaDB |
-| Serving / Routing | vLLM, LiteLLM |
-
-### Full-Stack Development
-
-<div align="left">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-
-</div>
-
-| Area | Details |
-|---|---|
-| Frontend | React, component-driven UI, responsive layouts |
-| Backend | Node.js, Express, REST API design |
-| Realtime | Socket.io for live dashboards & notifications |
-| Auth | JWT-based authentication, role-based access control |
-| Database | MongoDB schema design, aggregation pipelines |
-
-### Languages & Core
-
-<div align="left">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-</div>
-
-- Strong DSA fundamentals, applied regularly on LeetCode
-- Comfortable moving between typed and untyped codebases depending on project needs
-- Java background feeding into cleaner OOP structure even in JS/Python projects
-
-### Machine Learning & Computer Vision
-
-<div align="left">
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-</div>
-
-- CNN-based classification pipelines for medical imaging
-- Data preprocessing, augmentation, and train/validation workflows
-- Comfortable reading research-adjacent material and turning it into working code
-
-### Tools & Platforms
-
-<div align="left">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
 <br/>
+
+**GenAI / LLM**
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/FAISS-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/ChromaDB-6C63FF?style=flat-square" />
+
+<br/><br/>
+
+**Full-Stack**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js,ts&theme=dark" />
+
+<br/><br/>
+
+**Core & ML**
+
+<img src="https://skillicons.dev/icons?i=python,java,tensorflow,opencv,git,docker,vscode,postman&theme=dark" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:2E2A5B&height=3&section=header" />
+
+<div align="center">
 
 ## 🚀 Featured Projects
 
-<br/>
+</div>
 
-### 🧭 Conductor — LangGraph Multi-Agent Orchestration System
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SakshamDevloper/LangGraph-Multi-Agent-Orchestration-System)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+### 🧭 Conductor
+**LangGraph Multi-Agent Orchestration**
 
-An enterprise-style multi-agent AI orchestration platform. Four agents — **Planner, Researcher, Tool Executor, and Critic** — run as an explicit LangGraph state machine over documents and live tools, rather than an implicit agent loop.
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
 
-<details>
-<summary><b>Why it's built this way</b></summary>
-<br/>
+Four agents — Planner, Researcher, Executor, Critic — run as an explicit LangGraph state machine over documents & live tools.
 
-- Explicit state transitions instead of a black-box agent loop, so behavior is traceable and debuggable
-- Clear separation of planning, execution, and critique — each agent has exactly one job
-- Designed to operate over both static documents and live tool calls
-- A Critic stage exists specifically so the system can catch its own bad outputs before they propagate
+**[→ View Repo](https://github.com/SakshamDevloper/LangGraph-Multi-Agent-Orchestration-System)**
 
-</details>
-
-<br/>
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 Nexus AI Assistant
+**Voice-Controlled Desktop Assistant**
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SakshamDevloper/Nexus-AI-Assistant)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
-An AI-powered desktop voice assistant with real-time speech recognition, LLM integration, and system automation.
+Real-time speech recognition + LLM integration for hands-free system automation, reminders, and live info lookup.
 
-<details>
-<summary><b>Core capabilities</b></summary>
-<br/>
+**[→ View Repo](https://github.com/SakshamDevloper/Nexus-AI-Assistant)**
 
-- Opens applications and performs system-level automation on voice command
-- Sets reminders and fetches live information (e.g. weather)
-- Integrates an LLM backend for natural-language task interpretation
-- Real-time speech recognition pipeline rather than a push-to-talk wrapper
-
-</details>
-
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📚 KnowledgeBrainAPI
+**RAG Knowledge Graph Platform**
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SakshamDevloper/KnowledgeBrainAPI)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-1C3C3C?style=flat-square)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/RAG-1C3C3C?style=flat-square" />
 
-A RAG-powered, agentic AI platform that ingests industrial documents — PDFs, P&IDs, scanned forms, maintenance logs — into a unified, queryable knowledge graph.
+Ingests industrial PDFs, P&IDs, scanned forms & logs into a unified, natural-language-queryable knowledge graph.
 
-<details>
-<summary><b>Core capabilities</b></summary>
-<br/>
+**[→ View Repo](https://github.com/SakshamDevloper/KnowledgeBrainAPI)**
 
-- Natural-language querying over previously unstructured industrial documentation
-- Handles mixed document types in a single ingestion pipeline
-- Built for retrieval speed on large, messy document sets
-- Targets a real pain point — industrial teams sitting on years of undigitized documentation
-
-</details>
-
-<br/>
+</td>
+<td width="50%" valign="top">
 
 ### 🏨 Hostel Management System
+**Real-Time MERN Dashboard**
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SakshamDevloper/HostelManagementSystem)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark&perline=4" />
 
-A full MERN-stack hostel management platform with a real-time dashboard, role-based access, and Socket.io live updates.
+Role-based access + Socket.io live updates for rooms, payments, and complaints.
 
-<details>
-<summary><b>Core capabilities</b></summary>
-<br/>
+**[→ View Repo](https://github.com/SakshamDevloper/HostelManagementSystem)**
 
-- Live tracking for room allocation, payments, and complaints
-- Role-based access control across student/staff/admin roles
-- Real-time UI updates via Socket.io rather than manual refresh
-- Designed around how a hostel admin office actually operates day to day
-
-</details>
-
-<br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🧠 Brain Tumor Detection
+**CNN Medical Imaging Classifier**
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SakshamDevloper/Brain-Tumor-Detection)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 
-An AI-powered brain tumor detection system for medical imaging analysis, using convolutional neural networks to classify MRI scans as tumor-positive or normal.
+Classifies MRI scans as tumor-positive or normal via a CNN pipeline with curated train/validation splits.
 
-<details>
-<summary><b>Core capabilities</b></summary>
-<br/>
+**[→ View Repo](https://github.com/SakshamDevloper/Brain-Tumor-Detection)**
 
-- Curated dataset with defined train/validation splits
-- CNN-based binary classification pipeline
-- Built as a clean, reproducible ML workflow rather than a single notebook
-
-</details>
-
-<br/>
+</td>
+<td width="50%" valign="top">
 
 ### 💼 Full-Stack Portfolio
+**12+ MERN Projects**
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SakshamDevloper/Full-Stack-Portfolio)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark&perline=4" />
 
-A complete development portfolio featuring 12+ diverse projects, demonstrating proficiency in the MERN stack, RESTful APIs, and modern JavaScript across a wide range of application types.
+A wide range of MERN apps demonstrating REST API design and modern JavaScript across many use cases.
 
-<details>
-<summary><b>What's inside</b></summary>
-<br/>
+**[→ View Repo](https://github.com/SakshamDevloper/Full-Stack-Portfolio)**
 
-- A working range of MERN applications rather than one deep project
-- REST API patterns reused and refined across multiple small apps
-- A useful reference point for anyone wanting to see breadth alongside the depth in the other pinned repos
+</td>
+</tr>
+</table>
 
-</details>
-
-<br/>
-
-## 📊 GitHub Stats
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E2A5B,100:6C63FF&height=3&section=header" />
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SakshamDevloper&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamDevloper&layout=compact&theme=radical&hide_border=true" />
+## 📊 GitHub Analytics
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamDevloper&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamDevloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=6C63FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamDevloper&theme=tokyonight&hide_border=true&background=00000000&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamDevloper&theme=redical&hide_border=true" width="100%" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamDevloper&theme=tokyo-night&hide_border=true&bg_color=00000000&color=6C63FF&line=6C63FF&point=ffffff" />
+
+<br/><br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/SakshamDevloper/SakshamDevloper/output/github-contribution-grid-snake.svg" />
+
+<sub>⚙️ Animated snake activates once the daily GitHub Action is added — see setup note at the bottom.</sub>
 
 </div>
 
-<br/>
-
-<details>
-<summary>📈 Contribution Snake (animated)</summary>
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:2E2A5B&height=3&section=header" />
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SakshamDevloper/SakshamDevloper/output/github-contribution-grid-snake.svg" width="100%" />
+## 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=SakshamDevloper&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
 </div>
 
-> This animates automatically once the [`platane/snk`](https://github.com/Platane/snk) GitHub Action is added to this repo — see the setup notes at the bottom of this file.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E2A5B,100:6C63FF&height=3&section=header" />
 
-</details>
-
-<br/>
+<div align="center">
 
 ## 💻 Coding Activity
 
-<div align="center">
-
-[![LeetCode Stats](https://leetcode-stats-eight-alpha.vercel.app/api?username=SakshamDevloper&theme=dark)](https://leetcode.com/SakshamDevloper)
-
-</div>
-
-Regularly solving DSA problems on LeetCode to keep core fundamentals sharp alongside project work — the two feed into each other more than people expect, especially when debugging graph-shaped agent state.
-
-<br/>
-
-## 🎯 What I'm Focused On Right Now
-
-- 🔭 **Building:** deeper multi-agent orchestration patterns beyond the current Conductor design
-- 🌱 **Learning:** distributed system design fundamentals, and pushing LangGraph patterns further
-- 🤝 **Open to:** internship opportunities and entry-level SDE / AI-ML roles
-- 💬 **Happy to talk about:** RAG architecture decisions, LangGraph state machine design, or MERN system design trade-offs
-- 📫 **Reach me:** via [LinkedIn](https://www.linkedin.com/in/SakshamDevloper) — details below
-
-<br/>
-
-## 🧩 How I Approach Projects
-
-<details>
-<summary><b>1. Start with the architecture, not the code</b></summary>
-<br/>
-
-Before writing implementation code, I sketch out how data and control flow through the system — especially important for agentic systems, where an implicit loop can quietly hide bugs that an explicit state machine would surface immediately. Getting this wrong early is expensive to unwind later, so it's worth the up-front time.
-
-</details>
-
-<details>
-<summary><b>2. Prefer explicit over clever</b></summary>
-<br/>
-
-Conductor's four-agent LangGraph design exists because an explicit Planner → Researcher → Executor → Critic pipeline is easier to debug, test, and extend than a single do-everything agent loop. Cleverness that saves ten lines today usually costs an hour of debugging later.
-
-</details>
-
-<details>
-<summary><b>3. Build for the demo you'd actually want to give</b></summary>
-<br/>
-
-Portfolio-grade means role-based access, real-time updates, and clean UI — not just a working backend with an unstyled form bolted on. If I wouldn't want to demo it live, it's not done yet.
-
-</details>
-
-<details>
-<summary><b>4. Finish, don't abandon</b></summary>
-<br/>
-
-Several of these projects went through post-"working" passes — cleaning up naming, fixing edge cases, and rewriting docs — because a project that technically works but reads as unfinished undersells the engineering behind it.
-
-</details>
-
-<br/>
-
-## 🌱 Beyond Code
-
-- Competitive problem-solving on LeetCode
-- Following developments in agentic AI and RAG system design as the space moves quickly
-- Iterating on this very profile — treating it like a living project rather than a one-time setup
-
-<br/>
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="64" alt="YOLO Achievement" />
+<a href="https://leetcode.com/SakshamDevloper">
+<img src="https://leetcode-stats-eight-alpha.vercel.app/api?username=SakshamDevloper&theme=dark" />
+</a>
 
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:2E2A5B&height=3&section=header" />
+
 <div align="center">
-
-More achievement badges appear automatically on this profile as GitHub unlocks them — check the [Achievements tab](https://github.com/SakshamDevloper?tab=achievements) for the current set.
-
-</div>
-
-<br/>
-
-## ❓ FAQ
-
-<details>
-<summary><b>What's the difference between Conductor and Nexus AI Assistant?</b></summary>
-<br/>
-
-Conductor is backend-first — a multi-agent orchestration engine meant to sit behind other systems. Nexus AI Assistant is user-facing — a desktop voice assistant where the LLM integration is one piece of a larger automation experience, not the whole product.
-
-</details>
-
-<details>
-<summary><b>Are you more focused on GenAI or full-stack right now?</b></summary>
-<br/>
-
-GenAI/LLM engineering is the primary focus, but full-stack MERN work stays active alongside it — a lot of the GenAI systems above need a real interface and backend to actually be usable, so the two rarely stay separate for long.
-
-</details>
-
-<details>
-<summary><b>What kind of role are you looking for?</b></summary>
-<br/>
-
-Internships and entry-level roles in software engineering or applied AI/ML — anywhere the work involves either LLM systems (RAG, agents, retrieval infrastructure) or full-stack product engineering.
-
-</details>
-
-<details>
-<summary><b>Is this README itself part of your portfolio?</b></summary>
-<br/>
-
-Yes — treating a profile README as a real piece of communication, not boilerplate, is part of the same "finish, don't abandon" approach mentioned above. It's also usually the first thing a recruiter clicking through from a resume actually sees.
-
-</details>
-
-<br/>
 
 ## 📫 Let's Connect
 
-<div align="center">
+<a href="https://www.linkedin.com/in/SakshamDevloper"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/SakshamDevloper"><img src="https://img.shields.io/badge/LeetCode-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://github.com/SakshamDevloper"><img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-[![LinkedIn](https://img.shields.io/badge/-Saksham%20Sethi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SakshamDevloper)
-[![LeetCode](https://img.shields.io/badge/-SakshamDevloper-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/SakshamDevloper)
-[![GitHub](https://img.shields.io/badge/-SakshamDevloper-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SakshamDevloper)
+<br/><br/>
 
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-*"Working" is the starting line, not the finish line.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=SakshamDevloper&color=6C63FF&style=flat-square&label=Profile+Views)
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Let's+build+something+together" />
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2A5B,100:6C63FF&height=120&section=footer" />
 
 <!--
 ============================================================
-  SETUP NOTES (delete this comment block once done — it
-  won't render on the profile page, it's just for you)
+  SETUP NOTES — invisible on the rendered page, read once
 ============================================================
 
-1. GITHUB STATS / STREAK / ACTIVITY-GRAPH / LEETCODE CARDS
-   -----------------------------------------------------
-   These are all hotlinked images generated live from your
-   username. No setup required — they just work once this
-   file is committed as SakshamDevloper/SakshamDevloper/README.md.
+1. EVERYTHING except the snake animation and trophy image
+   works immediately — they're all hosted, live-generated
+   images keyed to your username. No config needed.
 
-2. CONTRIBUTION SNAKE ANIMATION
-   -----------------------------------------------------
-   This one needs a one-time setup:
-   - Go to this repo's Settings -> Actions -> General ->
-     enable "Read and write permissions" under Workflow
-     permissions.
-   - Add a workflow file at .github/workflows/snake.yml using
-     the platane/snk action (search "platane snk github action"
-     for the current copy-paste config).
-   - It runs daily and generates the animated snake SVG
-     referenced above automatically.
-   - Until that workflow has run at least once, that image
-     will show as broken — that's expected, it's not an error
-     in this file.
+2. ANIMATED SNAKE (contribution grid)
+   One-time setup:
+   - This repo's Settings -> Actions -> General -> enable
+     "Read and write permissions" under Workflow permissions.
+   - Add .github/workflows/snake.yml using the platane/snk
+     GitHub Action (search "platane snk action" for the
+     current YAML to paste in).
+   - Runs daily and generates the SVG this file references.
+     Until it runs once, that image shows broken — expected.
 
-3. TABLE OF CONTENTS LINKS
-   -----------------------------------------------------
-   GitHub auto-generates anchor links from headings, so the
-   ToC at the top should work as-is once this is live.
+3. COLOR THEME
+   Everything is tied to one accent (#6C63FF) across the
+   header, dividers, badges and stat cards so it reads as
+   one designed piece rather than stitched-together widgets.
+   Change the hex in the capsule-render/stats URLs if you
+   want a different accent color — keep it consistent across
+   all of them if you do.
 
-4. IF ANY BADGE LOOKS BROKEN AFTER PUSHING
-   -----------------------------------------------------
-   Some of these services (streak-stats, activity-graph) can
-   be briefly rate-limited on hosted instances. Reloading the
-   profile page after a minute usually resolves it.
-
-5. KEEPING THIS UP TO DATE
-   -----------------------------------------------------
-   The "Featured Projects" section is a snapshot of your
-   current pinned repos. When you pin new work or retire old
-   projects, update this section to match — a profile README
-   that lags behind your actual pins undercuts the effect.
+4. IF A WIDGET LOOKS BROKEN RIGHT AFTER PUSHING
+   The stats/streak/activity-graph/trophy services run on
+   free hosted instances and can be briefly rate-limited.
+   Reload after a minute before assuming something's wrong.
 ============================================================
 -->
