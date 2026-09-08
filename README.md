@@ -21,7 +21,7 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:2E2A5B&height=3&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E2A5B&height=20&section=header" />
 
 <br/>
 
@@ -64,13 +64,17 @@ I design **LLM systems that behave like software, not demos** — explicit multi
 
 <sub><i>Note: the WakaTime card above only renders once WakaTime is connected to this GitHub account — remove it if you don't use WakaTime, see setup notes at the bottom.</i></sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E2A5B,100:6C63FF&height=3&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2A5B,100:6C63FF&height=20&section=header" />
 
 <div align="center">
 
 ## 🛠️ Tech Stack
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="45"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="45"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="45"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="45"><img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="45"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="45"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="45">
+
+<br/><br/>
 
 **GenAI / LLM Engineering**
 
@@ -103,7 +107,7 @@ I design **LLM systems that behave like software, not demos** — explicit multi
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:2E2A5B&height=3&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E2A5B&height=20&section=header" />
 
 <div align="center">
 
@@ -127,7 +131,11 @@ Four agents — **Planner, Researcher, Executor, Critic** — run as an explicit
 - LiteLLM-backed model routing for provider fallback resilience
 - PostgreSQL persistence via Alembic-managed migrations
 
+<img width="130" align="right" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" alt="agent bot" />
+
 **[→ View Repo](https://github.com/SakshamDevloper/LangGraph-Multi-Agent-Orchestration-System)**
+
+<br clear="right"/>
 
 <br/>
 
@@ -142,7 +150,11 @@ Real-time speech recognition wired to LLM integration for hands-free system auto
 - Deployed with a split strategy — frontend on Netlify, backend on Railway
 - Designed as a primary showcase project for full-stack + AI integration skill
 
+<img width="130" align="right" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="voice chat" />
+
 **[→ View Repo](https://github.com/SakshamDevloper/Nexus-AI-Assistant)**
+
+<br clear="right"/>
 
 <br/>
 
@@ -157,7 +169,11 @@ Ingests industrial PDFs, P&IDs, scanned forms, and logs into a unified, natural-
 - Vector retrieval layer over a structured knowledge graph
 - Natural-language query interface over industrial data
 
+<img width="130" align="right" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" alt="multi screen analysis" />
+
 **[→ View Repo](https://github.com/SakshamDevloper/KnowledgeBrainAPI)**
+
+<br clear="right"/>
 
 <br/>
 
@@ -172,7 +188,11 @@ A complete MERN hostel management system built from scratch, with role-based das
 - JWT authentication with role-based access control
 - React/Vite/Tailwind frontend, Node.js/Express/MongoDB/Socket.io backend
 
+<img width="130" align="right" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="productive working" />
+
 **[→ View Repo](https://github.com/SakshamDevloper/HostelManagementSystem)**
+
+<br clear="right"/>
 
 <br/>
 
@@ -182,7 +202,11 @@ A complete MERN hostel management system built from scratch, with role-based das
 
 Classifies MRI scans as tumor-positive or normal via a CNN pipeline with curated train/validation splits — classical CV/ML work alongside the GenAI-heavy projects.
 
+<img width="130" align="right" src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" alt="multitasking" />
+
 **[→ View Repo](https://github.com/SakshamDevloper/Brain-Tumor-Detection)**
+
+<br clear="right"/>
 
 <br/>
 
@@ -192,15 +216,21 @@ Classifies MRI scans as tumor-positive or normal via a CNN pipeline with curated
 
 A wide range of MERN apps demonstrating REST API design and modern JavaScript across many use cases — the breadth counterpart to the two flagship deep-dive projects above.
 
+<img width="130" align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="workspace" />
+
 **[→ View Repo](https://github.com/SakshamDevloper/Full-Stack-Portfolio)**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E2A5B,100:6C63FF&height=3&section=header" />
+<br clear="right"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2A5B,100:6C63FF&height=20&section=header" />
 
 <div align="center">
 
 ## 🚧 Currently Building
 
 <sub>Transparent, in-progress work</sub>
+
+<img width="140" src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" alt="automatic typing" />
 
 </div>
 
@@ -212,11 +242,13 @@ Full frontend scaffold in place; actively building out the `MovieCard`, the full
 **🧭 Conductor Hardening** — `LangGraph` · `LiteLLM` · `PostgreSQL`
 Taking Conductor from "working" to "production-styled": end-to-end verification of the four-agent flow, live LiteLLM fallback wiring, and running Alembic migrations against a live PostgreSQL instance rather than local dev.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:2E2A5B&height=3&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E2A5B&height=20&section=header" />
 
 <div align="center">
 
 ## 📊 GitHub Analytics
+
+<img width="120" src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" alt="3d stats" />
 
 <br/>
 
@@ -235,7 +267,7 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E2A5B,100:6C63FF&height=3&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2A5B,100:6C63FF&height=20&section=header" />
 
 <div align="center">
 
@@ -245,7 +277,7 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:2E2A5B&height=3&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E2A5B&height=20&section=header" />
 
 <div align="center">
 
@@ -257,11 +289,13 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E2A5B,100:6C63FF&height=3&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E2A5B,100:6C63FF&height=20&section=header" />
 
 <div align="center">
 
 ## 🧩 Focus & Roadmap
+
+<img width="150" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" alt="development time" />
 
 </div>
 
@@ -272,11 +306,15 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
 | 🔎 RAG Infrastructure | Retrieval quality, chunking strategy, and hybrid search over FAISS/ChromaDB |
 | 🌐 Full-Stack Delivery | Shipping polished, real-time MERN features end-to-end |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,100:2E2A5B&height=3&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E2A5B&height=20&section=header" />
 
 <div align="center">
 
 ## 📫 Let's Connect
+
+<img width="130" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" alt="hi there" />
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/SakshamDevloper"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/SakshamDevloper"><img src="https://img.shields.io/badge/LeetCode-6C63FF?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
@@ -289,6 +327,10 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
 <br/><br/>
 
 <img width="150" src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" alt="typing animation" />
+
+<br/><br/>
+
+<img src="https://camo.githubusercontent.com/242ff63f07db8e98fe82bf85ab34c815393145b9f5431688654b0d28161eaaad/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966" width="30"><img src="https://camo.githubusercontent.com/d33a2619953c93a3ac8dbc89b7316997c265ef4d42e552adcf73bd62be49b1d5/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f666c6167732f68642f6972616e706172726f742e676966" width="30"><img src="https://camo.githubusercontent.com/7ab785303e6c651e6b5e6ab4bab6120e7d625bf7f65d4fa9c30e3aa3e68a9b1c/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6173796e63706172726f742e676966" width="30"><img src="https://camo.githubusercontent.com/3f78c1da994ed6454f47e0e6498d3b39f44167240a0371870a7cb23eb62aecbf/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" width="30"><img src="https://camo.githubusercontent.com/61d6c1ff3602cc84b9d5686edd06952df9433711a46abe9e9c1d3c2d4ac3b3f7/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6a756d70696e67706172726f742e676966" width="30"><img src="https://camo.githubusercontent.com/c8e4df60bb83cbacaad022f21fc14ce768b2e705399d61b020af37bd6120cbb8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6f70656e736f75726365706172726f742e676966" width="30">
 
 </div>
 
@@ -320,26 +362,38 @@ Taking Conductor from "working" to "production-styled": end-to-end verification 
    <img> line and the <sub> note below it — no other setup
    needed for anything else in this file.
 
-4. TWO NEW GIFS (intro + closing)
-   Both are hosted on user-images.githubusercontent.com, which
-   is GitHub's own permanent asset CDN — no expiry, no setup.
-   Swap the URLs any time for a different animation from
-   https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub if
-   you want a different vibe.
+4. ALL THE SMALL ACCENT GIFS
+   Every gif in this file — the intro, the per-project ones,
+   the section accents, the dancing parrots — is hosted on
+   either user-images.githubusercontent.com (GitHub's own
+   permanent asset CDN) or camo.githubusercontent.com (GitHub's
+   image proxy, also permanent). Neither expires and neither
+   needs setup. Swap any of them for a different animation from
+   https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub if you
+   want a different vibe — just don't use links from
+   private-user-images.githubusercontent.com anywhere, since
+   those carry a short-lived signed token and will break.
 
-5. COLOR THEME
+5. DIVIDERS NOW ANIMATE
+   The thin section dividers switched from a static gradient
+   bar (type=rect) to a gently animated wave (type=waving,
+   height=20). If that motion feels like too much while
+   scrolling, change type=waving back to type=rect on those
+   lines and drop height back to 3.
+
+6. COLOR THEME
    Everything is tied to one accent (#6C63FF) across the
    header, dividers, badges, and stat cards so it reads as one
    designed piece rather than stitched-together widgets.
    Change the hex in the capsule-render/stats URLs if you want
    a different accent — keep it consistent across all of them.
 
-6. IF A WIDGET LOOKS BROKEN RIGHT AFTER PUSHING
+7. IF A WIDGET LOOKS BROKEN RIGHT AFTER PUSHING
    The stats/streak/activity-graph/trophy services run on free
    hosted instances and can be briefly rate-limited. Reload
    after a minute before assuming something's wrong.
 
-7. REPO NAMES USED IN THIS FILE
+8. REPO NAMES USED IN THIS FILE
    Conductor -> LangGraph-Multi-Agent-Orchestration-System
    Nexus AI Assistant -> Nexus-AI-Assistant
    Hostel Management System -> HostelManagementSystem
